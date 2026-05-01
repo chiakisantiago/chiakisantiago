@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Hi, I'm Takumi. I take pictures."
+tags: []
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
