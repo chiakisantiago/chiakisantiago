@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Tak Santiago
+title:            Chiaki Santiago
 locale:           en_US
-url:              //santiaci325.github.io/taksantiago
+url:              //chiakisantiago.github.io/chiakisantiago
 
 
 # Jekyll configuration
@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Tak Santiago
-  avatar: bio-photo.jpg
-  bio: "Hi, I'm Takumi. I take pictures."
+  name: Chiaki Santiago
+  avatar: profilephoto.png
+  bio: "Hi, I'm Chiaki. I like to write."
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
