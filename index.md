@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "Hi, I'm Takumi. I take pictures."
+excerpt: "Hi, I'm Chiaki."
 tags: []
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: IMG_0578.jpg
 ---
+
+**Hi, I'm Chiaki** — welcome to my website. *(Bio coming soon.)*

@@ -13,7 +13,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
 
@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Chiaki Santiago
+  name: Chiaki Santiago, Ph.D.
   avatar: profilephoto.png
-  bio: "Hi, I'm Chiaki. I like to write."
+  bio: "Systems Neuroscientist and Medical Writer"
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
